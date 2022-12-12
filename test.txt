@@ -1,2 +1,3 @@
 
-test.txt dosyasinda degisikler yaptim.
+test.txt dosyasinda degisikler yaptim. 
+satir ekledim
